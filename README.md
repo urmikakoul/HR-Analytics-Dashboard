@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-In this project, I explored a dataset consisting of HR Data. The data if for a fictitious company and the core data set contains names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether they are active or terminated, position title, pay rate, manager name, performance score, Absences, Most Recent Performance Review Date and Employee Engagement Score. 
+In this project, I explored a dataset consisting of HR Data. The data is for a fictitious company and the core data set contains names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether they are active or terminated, position title, pay rate, manager name, performance score, Absences, Most Recent Performance Review Date and Employee Engagement Score. 
 
 The data visualization dashboard was created using Tableau Public.
 
